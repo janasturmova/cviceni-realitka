@@ -1,7 +1,7 @@
 export const Header = () => {
     return(
         <div className="container-header">
-        <h1 className="title__header">Úžasná realitka1</h1>
+        <h1 className="title__header">Úžasná realitka</h1>
           <nav>
             <ul>
                 <li><a href="/dum01.html">Dřevostavba</a></li> 
